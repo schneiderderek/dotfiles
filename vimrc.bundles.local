@@ -1,0 +1,23 @@
+" Plug 'hhff/SpacegrayEighties.vim'
+Plug 'altercation/vim-colors-solarized'
+Plug 'scrooloose/nerdtree'
+Plug 'bronson/vim-trailing-whitespace'
+Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'airblade/vim-gitgutter'
+" Plug 'thoughtbot/vim-rspec'
+" Plug 'AndrewRadev/splitjoin.vim'
+Plug 'elixir-lang/vim-elixir'
+Plug 'altercation/vim-colors-solarized'
+Plug 'slashmili/alchemist.vim'
+Plug 'c-brenn/phoenix.vim'
+Plug 'tpope/vim-projectionist'
+Plug 'mhinz/vim-mix-format'
+Plug 'janko-m/vim-test'
+Plug 'prettier/vim-prettier', {
+  \ 'do': 'yarn install',
+  \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue'] }
+Plug 'jceb/vim-orgmode'
+" Plug 'majutsushi/tagbar'
+" Plug 'szw/vim-tags'
+" Plug 'Lokaltog/vim-powerline'
+" Plug 'stephenmckinney/vim-solarized-powerline'
