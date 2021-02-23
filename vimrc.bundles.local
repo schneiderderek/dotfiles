@@ -11,11 +11,11 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'slashmili/alchemist.vim'
 Plug 'c-brenn/phoenix.vim'
 Plug 'tpope/vim-projectionist'
-Plug 'mhinz/vim-mix-format'
+" Plug 'mhinz/vim-mix-format'
 Plug 'janko-m/vim-test'
 Plug 'prettier/vim-prettier', {
   \ 'do': 'yarn install',
-  \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue'] }
+  \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'ruby', 'markdown', 'vue'] }
 Plug 'jceb/vim-orgmode'
 " Plug 'majutsushi/tagbar'
 " Plug 'szw/vim-tags'
